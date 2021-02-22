@@ -1,0 +1,17 @@
+{
+  "title": "Test EJS Page",
+  "people": [
+    {
+      "name": "Jared",
+      "species": "human"
+    },
+    {
+      "name": "Suzie",
+      "species": "human"
+    },
+    {
+      "name": "Penny",
+      "species": "canine"
+    }
+  ]
+}
